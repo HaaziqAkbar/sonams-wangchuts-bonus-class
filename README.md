@@ -1,1 +1,1 @@
-# sonams-wangchuts-bonus-class
+# solar_power
